@@ -1,0 +1,7 @@
+.navbar-logo {
+  max-height: 2.5rem;
+}
+
+#diferenciais ul li:before {
+  content: '✓ ';
+}
